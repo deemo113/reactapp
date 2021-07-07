@@ -1,0 +1,42 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifytestapp-dev-05721-authRole",
+      "UnauthRoleArn": "arn:aws:iam::941769195650:role/amplify-amplifytestapp-dev-05721-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::941769195650:role/amplify-amplifytestapp-dev-05721-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifytestapp-dev-05721-deployment",
+      "UnauthRoleName": "amplify-amplifytestapp-dev-05721-unauthRole",
+      "StackName": "amplify-amplifytestapp-dev-05721",
+      "StackId": "arn:aws:cloudformation:us-east-1:941769195650:stack/amplify-amplifytestapp-dev-05721/367ad290-dee8-11eb-ba9a-0afdb21fa153",
+      "AmplifyAppId": "dfl928vvc7z94"
+    },
+    "categories": {
+      "function": {
+        "amplifytestappe9627966DefineAuthChallenge": {
+          "deploymentBucketName": "amplify-amplifytestapp-dev-05721-deployment",
+          "s3Key": "amplify-builds/amplifytestappe9627966DefineAuthChallenge-72646577484d46713552-build.zip"
+        },
+        "amplifytestappe9627966CreateAuthChallenge": {
+          "deploymentBucketName": "amplify-amplifytestapp-dev-05721-deployment",
+          "s3Key": "amplify-builds/amplifytestappe9627966CreateAuthChallenge-7a4f33496f6c3638542f-build.zip"
+        },
+        "amplifytestappe9627966VerifyAuthChallengeResponse": {
+          "RECAPTCHASECRET": "6Le5028bAAAAADcmgUOb1ZqQl6aeYyFj04Pbl_hV",
+          "deploymentBucketName": "amplify-amplifytestapp-dev-05721-deployment",
+          "s3Key": "amplify-builds/amplifytestappe9627966VerifyAuthChallengeResponse-4d6b56424d6b2f4a424b-build.zip"
+        },
+        "amplifytestappe9627966CustomMessage": {
+          "REDIRECTURL": "",
+          "EMAILSUBJECT": "Your account has been verified",
+          "EMAILMESSAGE": "",
+          "deploymentBucketName": "amplify-amplifytestapp-dev-05721-deployment",
+          "s3Key": "amplify-builds/amplifytestappe9627966CustomMessage-6e584764624176745031-build.zip"
+        }
+      },
+      "auth": {
+        "amplifytestappe9627966": {}
+      }
+    }
+  }
+}
